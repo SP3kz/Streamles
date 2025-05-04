@@ -1,0 +1,4 @@
+{
+  "webhook_url": "https://flowly.app/webhook/omega-surgesync",
+  "secret_token": "your-secret-token-here"
+}
