@@ -1,1 +1,1 @@
-# Ensures pytest recognizes this directory
+# Init file to ensure pytest recognizes this folder
